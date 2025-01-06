@@ -1,4 +1,5 @@
-<h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
+{% if site.data.publications.section_title %}
+<h2 id="projects" style="margin: 2px 0px -15px;">{{ site.data.publications.section_title }}</h2>
 
 <div class="projects">
 <ol class="bibliography">
