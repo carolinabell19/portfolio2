@@ -20,5 +20,3 @@ Hi! I'm Carolina, a dedicated <b> technical writer </b>. With a background in ST
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-## Publications
-
